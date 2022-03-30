@@ -5,6 +5,8 @@
 - The main idea of the game is that : Roll until all dice are the same. Click each die to freeze it at its current value between rolls. 
 
 
+- This project is Live <a href="https://mz-react-tenzies.netlify.app">Here</a> ! Enjoy .
+
 - Have a nice day 🌞
 
 
