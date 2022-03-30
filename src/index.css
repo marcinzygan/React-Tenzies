@@ -39,6 +39,13 @@ main{
   text-align: center;
   padding: 1rem;
 }
+.time{
+  color: #0B2434;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-bottom: 1rem;
+}
 .dice{
   color: #0B2434;
   height: 50px;
@@ -81,4 +88,17 @@ cursor: pointer;
 .confetti{
   width:350px;
   height: 350px;
+}
+
+.stats{
+  
+  color:#939394;
+
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+.score{
+  color:#F5F5F5;
+  font-size: 0.9rem;
+  padding-left: 1rem;
 }
