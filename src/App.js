@@ -138,7 +138,7 @@ const dices = dice.map(item =>
       className="confetti"
       />}
       <h1 className="title">{winCheck? "You Won " : "Tenzies"}</h1>
-      <p className="instructions">{winCheck? `Number of Turns: ${turns} `  : "Roll until all dice are the same. Click each die to freeze it at its current value between rolls."}</p>
+      <p className="instructions">{winCheck? `Number of Turns: ${turns} `  : "Roll until all numbers are the same. Click each number to freeze it at its current value between rolls."}</p>
       {winCheck && <p className="time">{`Time : ${time} seconds`}</p>}
       <div className="dice__container">
         {dices}
